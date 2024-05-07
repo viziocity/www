@@ -33,3 +33,5 @@ Over 7,000 lives have been lost in train accidents since 2010 in Japan, one of t
 
 
 Make AI Phone Calls. The enterprise grade developer first solution for implementing AI phone calls.
+[Bland AI Phone Calling Platform](https://www.bland.ai/)
+
